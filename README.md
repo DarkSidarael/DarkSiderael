@@ -1,12 +1,14 @@
 <div align="center">
-  <img height="150" src="https://![muriel (1)](https://github.com/DarkSidarael/DarkSiderael/assets/155545873/b0bd9edc-7381-4122-9e32-e1696ef2885f)  />
+  <img height="250" src="https://github.com/DarkSidarael/DarkSiderael/assets/155545873/c91d4436-7920-48c3-8c48-b7b23919ed27"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriel-messias-1280b0302/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murih_el/)
+ 
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
